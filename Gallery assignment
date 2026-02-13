@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Gallery Assignment </title>
+</head>
+<body>
+
+<h1>My Free Images</h1>
+
+<h2>Sunset Dog</h2>
+<img src="https://images.unsplash.com/photo-eAveN6LLvKs" alt="Dog in a field at sunset" width="300">
+
+<h2>Woman and Dog</h2>
+<img src="https://images.pexels.com/photos/5085926/pexels-photo-5085926.jpeg" alt="Woman and dog in field" width="300">
+
+<h2>Dog with Toy</h2>
+<img src="https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_960_720.jpg" alt="Dog playing with toy on grass" width="300">
+
+</body>
+</html>
