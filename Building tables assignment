@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Building Tables Assignment</title>
+</head>
+<body>
+
+<h1>Favorite Dog Breeds Comparison</h1>
+
+<table border="1">
+    <caption>Comparison of Popular Dog Breeds</caption>
+    
+    <tr>
+        <th colspan="4">Dog Breed Information</th>
+    </tr>
+    
+    <tr>
+        <th>Breed</th>
+        <th>Average Weight (lbs)</th>
+        <th>Energy Level</th>
+        <th>Good with Kids?</th>
+    </tr>
+    
+    <tr>
+        <td>Golden Retriever</td>
+        <td>55-75</td>
+        <td>High</td>
+        <td>Yes</td>
+    </tr>
+    
+    <tr>
+        <td>French Bulldog</td>
+        <td>16-28</td>
+        <td>Medium</td>
+        <td>Yes</td>
+    </tr>
+    
+    <tr>
+        <td>German Shepherd</td>
+        <td>50-90</td>
+        <td>High</td>
+        <td>Yes</td>
+    </tr>
+</table>
+
+<h2>Conclusions</h2>
+<ul>
+    <li>Golden Retrievers and German Shepherds have higher energy levels than French Bulldogs.</li>
+    <li>French Bulldogs are the smallest breed listed.</li>
+    <li>All three breeds are good with kids.</li>
+</ul>
+
+</body>
+</html>
