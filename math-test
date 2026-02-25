@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Math Test</title>
+</head>
+<body>
+
+<!-- START OF MATH TEST -->
+<h1>Simple Online Math Test</h1>
+
+<form>
+
+    <!-- Name Field -->
+    <label for="username">Enter Your Name:</label>
+    <input type="text" id="username" name="username"><br><br>
+
+    <!-- Multiple Choice Question 1 -->
+    <p>1. What is 5 + 3?</p>
+    <input type="radio" name="q1" value="6"> 6<br>
+    <input type="radio" name="q1" value="8"> 8<br>
+    <input type="radio" name="q1" value="10"> 10<br><br>
+
+    <!-- Multiple Choice Question 2 -->
+    <p>2. What is 9 &minus; 4?</p>
+    <input type="radio" name="q2" value="3"> 3<br>
+    <input type="radio" name="q2" value="5"> 5<br>
+    <input type="radio" name="q2" value="6"> 6<br><br>
+
+    <!-- Multiple Choice Question 3 -->
+    <p>3. What is 5 &times; 2?</p>
+    <input type="radio" name="q3" value="10"> 10<br>
+    <input type="radio" name="q3" value="12"> 12<br>
+    <input type="radio" name="q3" value="14"> 14<br><br>
+
+    <!-- Word Problem -->
+    <p>4. Word Problem:</p>
+    <p>If a store sells 3 notebooks for $2 each, how much money will you spend in total? 
+    Show your work using +, &minus;, &times;, or &divide;.</p>
+
+    <textarea name="wordproblem" rows="4" cols="40"></textarea><br><br>
+
+    <!-- Submit Button -->
+    <input type="submit" value="Submit Test">
+
+</form>
+
+<!-- END OF MATH TEST -->
+
+</body>
+</html>
