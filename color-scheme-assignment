@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Color Scheme Assignment</title>
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.scheme-name {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #0B3C5D;
+  color: white;
+}
+</style>
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <th colspan="4" class="scheme-name">Ocean Sunset</th>
+  </tr>
+
+  <tr>
+    <th style="background-color:#0B3C5D;">Deep Ocean</th>
+    <th style="background-color:#1CA7A6;">Turquoise Wave</th>
+    <th style="background-color:#F4D19B;">Sandy Shore</th>
+    <th style="background-color:#FF6F61;">Sunset Coral</th>
+  </tr>
+
+  <tr>
+    <td>#0B3C5D</td>
+    <td>#1CA7A6</td>
+    <td>#F4D19B</td>
+    <td>#FF6F61</td>
+  </tr>
+
+  <tr>
+    <td>rgb(11, 60, 93)</td>
+    <td>rgb(28, 167, 166)</td>
+    <td>rgb(244, 209, 155)</td>
+    <td>rgb(255, 111, 97)</td>
+  </tr>
+
+  <tr>
+    <td>hsl(204, 79%, 20%)</td>
+    <td>hsl(179, 71%, 38%)</td>
+    <td>hsl(36, 80%, 78%)</td>
+    <td>hsl(6, 100%, 69%)</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
